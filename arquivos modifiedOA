@@ -1,0 +1,14 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 19a7fd1..403f5ec 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -5,4 +5,6 @@[m [mdo Git.[m
+ - README.md[m
+ - index.html[m
+ - style.css[m
+[31m-- script.js[m
+\ No newline at end of file[m
+[32m+[m[32m- script.js[m
+[32m+[m[32m## Próximo passo[m
+[32m+[m[32mEntender a diferença entre modified e untracked.[m
+\ No newline at end of file[m
